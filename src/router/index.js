@@ -1,6 +1,10 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from '@/components/Home';
+import First from '@/components/first-child';
+import Second from '@/components/second-child';
+import Third from '@/components/third-child';
+import Fourth from '@/components/fourth-child';
 
 Vue.use(Router);
 
