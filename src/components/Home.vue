@@ -2,10 +2,10 @@
   <div class="hello">
     <h1>Home page!</h1>
     <p>{{msg}}</p>
-    <router-link :to="{name: 'First'}"> Go to First</router-link>
-    <router-link :to="{name: 'Second'}"> Go to Second</router-link>
+    <router-link :to="{name: 'First'}"> Start Breadcrumbs</router-link>
+    <!-- <router-link :to="{name: 'Second'}"> Go to Second</router-link>
     <router-link :to="{name: 'Third'}"> Go to Third</router-link>
-    <router-link :to="{name: 'Fourth'}"> Go to Fourth</router-link>
+    <router-link :to="{name: 'Fourth'}"> Go to Fourth</router-link> -->
   </div>
 </template>
 
