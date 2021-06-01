@@ -32,6 +32,12 @@ export default {
       console.log('This is breadcrumb routes ', this.$route.meta.breadcrumb)
       this.breadcrumbList = this.$route.meta.breadcrumb
     }
+    // [
+    //   { image_url: 'https://www.linkpicture.com/q/Image-5.png' },
+    //   { image_url: 'https://www.linkpicture.com/q/Image-1_1.png' },
+    //   { image_url: 'https://www.linkpicture.com/q/Image-2_1.png' },
+    //   { image_url: 'https://www.linkpicture.com/q/Image-3_2.png' },
+    // ]
   }
 }
 </script>
